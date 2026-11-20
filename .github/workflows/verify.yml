@@ -1,5 +1,7 @@
 name: Verify temporal replay
 on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
 jobs:
   verify:
     strategy:
@@ -11,6 +13,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm run typecheck
       - run: npm test
       - run: npm run build:data
       - run: npm run replay -- --output results-ci --quick

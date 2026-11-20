@@ -20,10 +20,12 @@ The committed replay consumed **915 arrival rows**: 800 unique accepted events, 
 
 ## Reproduce
 
-Use **Node 24** on Windows or Linux. No npm dependencies, transpiler, Python, database server, or API key is needed. Node executes the erasable TypeScript directly; native type stripping does not perform static type checking. The recorded environment used Node 24.20.0 and SQLite 3.53.4; the [environment artifact](results/environment.json) records the actual runtime and normalized source hashes.
+Use **Node 24** on Windows or Linux. The runtime has no npm dependencies: Node executes the erasable TypeScript directly and includes SQLite. Pinned development dependencies provide a separate strict TypeScript check across the engine, scripts and tests. No transpilation step, Python, database server, or API key is needed for the data pipeline. The recorded environment used Node 24.20.0 and SQLite 3.53.4; the [environment artifact](results/environment.json) records the actual runtime and normalized source hashes.
 
 ```sh
 node --version
+npm ci --ignore-scripts
+npm run typecheck
 npm test
 npm run build:data
 npm run replay -- --output results-local
@@ -39,7 +41,7 @@ npm run replay
 npm run report
 ```
 
-The replay command replaces its own named output files, including `store.sqlite`, in the selected output directory. Use a dedicated lab output directory. Report generation reads existing `results/` evidence and does not rerun measurements. The CI workflow runs tests and a fresh quick replay on Ubuntu and Windows with Node 24; it uploads output artifacts and does not enforce timing thresholds.
+The replay command replaces its own named output files, including `store.sqlite`, in the selected output directory. Use a dedicated lab output directory. Report generation reads existing `results/` evidence and does not rerun measurements. The CI workflow performs strict static checking, runs tests and executes a fresh quick replay on Ubuntu and Windows with Node 24; it uploads output artifacts and does not enforce timing thresholds.
 
 ## Event and validity contract
 
