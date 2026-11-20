@@ -1,0 +1,44 @@
+{
+  "captured_at_utc": "2026-11-20T23:09:18.074425+00:00",
+  "source": "Actual browser rendering of docs/report.html",
+  "recording": "Continuous automated browser review; not manual development footage",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "page_title": "Temporal CDC lab \u2014 replay report",
+  "report_sha256_normalized_text": "fda46ca62aa090affe1bed5b7ab34fdb8ae9c54ae5c16d639ba5864e79d0055a",
+  "video_sha256": "c673c57eb073f882b454e98af6a006d579189415093c29f99ac183828848fd9b",
+  "captures": [
+    {
+      "path": "docs/screenshots/01_overview.png",
+      "section": "overview",
+      "sha256": "2bb893457598988587b27823ea05f5a1ca1d36a951bc2df216a67d30598970dd"
+    },
+    {
+      "path": "docs/screenshots/02_timeline.png",
+      "section": "timeline",
+      "sha256": "5df5f7fef090f09042b87dd90000d108bdc67390b3a533e8e3a6b07e5d7e1db0"
+    },
+    {
+      "path": "docs/screenshots/03_quarantine.png",
+      "section": "quarantine",
+      "sha256": "51cab520bfa5287cb1813d9c501403c2aedaf547e5639b3013f788d9e3a9a4a8"
+    },
+    {
+      "path": "docs/screenshots/04_replay.png",
+      "section": "replay",
+      "sha256": "6713d104283f040695f1cd804e3c662a0ba7d1b38eff2f9f4df7ada0a1f3e8b2"
+    },
+    {
+      "path": "docs/screenshots/05_asof.png",
+      "section": "asof",
+      "sha256": "77d15c31d0dbbf84ab6aee0bff54e7534ebb8733b399d72e3f8711bf251abf26"
+    },
+    {
+      "path": "docs/screenshots/06_verification.png",
+      "section": "verification",
+      "sha256": "6c6130174d939100a59ab3971d95f0f6c7950e92f186b3252030762ad301cd92"
+    }
+  ]
+}

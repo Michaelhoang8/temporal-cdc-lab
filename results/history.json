@@ -1,0 +1,6402 @@
+[
+  {
+    "entity_id": "customer-0001",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0001-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0001",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0001-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0001",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0001-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0001",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0001-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0001",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0001-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0001",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0001-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0001",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0001-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0001",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0001-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0002",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0002-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0002",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0002-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0002",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0002-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0002",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0002-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0002",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0002-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0002",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0002-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0002",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0002-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0002",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0002-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0003",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0003-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0003",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0003-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0003",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0003-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0003",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0003-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0003",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0003-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0003",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0003-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0003",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0003-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0003",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0003-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0004",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0004-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0004",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0004-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0004",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0004-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0004",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0004-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0004",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0004-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0004",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0004-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0004",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0004-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0004",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0004-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0005",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0005-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0005",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0005-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0005",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0005-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0005",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0005-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0005",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0005-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0005",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0005-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0005",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0005-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0005",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0005-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0006",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0006-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0006",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0006-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0006",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0006-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0006",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0006-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0006",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0006-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0006",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0006-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0006",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0006-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0006",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0006-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0007",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0007-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0007",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0007-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0007",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0007-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0007",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0007-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0007",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0007-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0007",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0007-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0007",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0007-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0007",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0007-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0008",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0008-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0008",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0008-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0008",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0008-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0008",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0008-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0008",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0008-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0008",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0008-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0008",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0008-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0008",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0008-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0009",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0009-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0009",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0009-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0009",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0009-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0009",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0009-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0009",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0009-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0009",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0009-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0009",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0009-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0009",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0009-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0010",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0010-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0010",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0010-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0010",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0010-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0010",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0010-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0010",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0010-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0010",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0010-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0010",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0010-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0010",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0010-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0011",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0011-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0011",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0011-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0011",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0011-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0011",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0011-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0011",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0011-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0011",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0011-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0011",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0011-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0011",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0011-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0012",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0012-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0012",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0012-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0012",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0012-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0012",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0012-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0012",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0012-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0012",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0012-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0012",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0012-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0012",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0012-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0013",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0013-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0013",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0013-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0013",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0013-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0013",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0013-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0013",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0013-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0013",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0013-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0013",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0013-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0013",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0013-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0014",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0014-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0014",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0014-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0014",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0014-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0014",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0014-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0014",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0014-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0014",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0014-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0014",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0014-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0014",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0014-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0015",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0015-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0015",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0015-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0015",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0015-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0015",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0015-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0015",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0015-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0015",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0015-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0015",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0015-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0015",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0015-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0016",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0016-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0016",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0016-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0016",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0016-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0016",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0016-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0016",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0016-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0016",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0016-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0016",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0016-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0016",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0016-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0017",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0017-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0017",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0017-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0017",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0017-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0017",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0017-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0017",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0017-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0017",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0017-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0017",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0017-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0017",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0017-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0018",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0018-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0018",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0018-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0018",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0018-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0018",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0018-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0018",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0018-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0018",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0018-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0018",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0018-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0018",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0018-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0019",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0019-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0019",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0019-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0019",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0019-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0019",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0019-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0019",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0019-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0019",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0019-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0019",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0019-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0019",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0019-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0020",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0020-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0020",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0020-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0020",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0020-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0020",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0020-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0020",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0020-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0020",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0020-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0020",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0020-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0020",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0020-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0021",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0021-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0021",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0021-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0021",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0021-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0021",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0021-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0021",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0021-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0021",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0021-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0021",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0021-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0021",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0021-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0022",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0022-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0022",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0022-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0022",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0022-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0022",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0022-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0022",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0022-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0022",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0022-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0022",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0022-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0022",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0022-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0023",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0023-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0023",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0023-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0023",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0023-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0023",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0023-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0023",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0023-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0023",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0023-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0023",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0023-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0023",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0023-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0024",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0024-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0024",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0024-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0024",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0024-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0024",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0024-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0024",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0024-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0024",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0024-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0024",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0024-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0024",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0024-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0025",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0025-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0025",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0025-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0025",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0025-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0025",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0025-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0025",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0025-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0025",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0025-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0025",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0025-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0025",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0025-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0026",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0026-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0026",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0026-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0026",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0026-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0026",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0026-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0026",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0026-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0026",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0026-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0026",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0026-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0026",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0026-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0027",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0027-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0027",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0027-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0027",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0027-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0027",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0027-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0027",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0027-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0027",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0027-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0027",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0027-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0027",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0027-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0028",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0028-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0028",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0028-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0028",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0028-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0028",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0028-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0028",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0028-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0028",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0028-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0028",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0028-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0028",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0028-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0029",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0029-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0029",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0029-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0029",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0029-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0029",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0029-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0029",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0029-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0029",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0029-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0029",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0029-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0029",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0029-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0030",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0030-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0030",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0030-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0030",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0030-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0030",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0030-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0030",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0030-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0030",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0030-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0030",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0030-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0030",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0030-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0031",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0031-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0031",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0031-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0031",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0031-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0031",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0031-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0031",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0031-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0031",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0031-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0031",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0031-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0031",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0031-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0032",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0032-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0032",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0032-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0032",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0032-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0032",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0032-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0032",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0032-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0032",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0032-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0032",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0032-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0032",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0032-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0033",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0033-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0033",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0033-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0033",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0033-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0033",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0033-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0033",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0033-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0033",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0033-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0033",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0033-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0033",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0033-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0034",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0034-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0034",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0034-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0034",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0034-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0034",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0034-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0034",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0034-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0034",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0034-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0034",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0034-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0034",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0034-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0035",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0035-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0035",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0035-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0035",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0035-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0035",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0035-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0035",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0035-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0035",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0035-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0035",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0035-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0035",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0035-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0036",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0036-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0036",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0036-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0036",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0036-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0036",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0036-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0036",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0036-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0036",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0036-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0036",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0036-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0036",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0036-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0037",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0037-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0037",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0037-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0037",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0037-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0037",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0037-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0037",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0037-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0037",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0037-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0037",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0037-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0037",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0037-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0038",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0038-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0038",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0038-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0038",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0038-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0038",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0038-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0038",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0038-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0038",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0038-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0038",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0038-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0038",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0038-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0039",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0039-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0039",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0039-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0039",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0039-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0039",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0039-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0039",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0039-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0039",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0039-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0039",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0039-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0039",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0039-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0040",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0040-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0040",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0040-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0040",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0040-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0040",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0040-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0040",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0040-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0040",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0040-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0040",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0040-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0040",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0040-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0041",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0041-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0041",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0041-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0041",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0041-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0041",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0041-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0041",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0041-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0041",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0041-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0041",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0041-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0041",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0041-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0042",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0042-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0042",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0042-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0042",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0042-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0042",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0042-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0042",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0042-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0042",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0042-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0042",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0042-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0042",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0042-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0043",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0043-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0043",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0043-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0043",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0043-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0043",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0043-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0043",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0043-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0043",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0043-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0043",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0043-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0043",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0043-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0044",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0044-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0044",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0044-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0044",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0044-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0044",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0044-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0044",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0044-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0044",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0044-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0044",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0044-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0044",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0044-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0045",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0045-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0045",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0045-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0045",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0045-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0045",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0045-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0045",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0045-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0045",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0045-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0045",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0045-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0045",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0045-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0046",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0046-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0046",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0046-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0046",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0046-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0046",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0046-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0046",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0046-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0046",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0046-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0046",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0046-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0046",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0046-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0047",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0047-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0047",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0047-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0047",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0047-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0047",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0047-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0047",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0047-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0047",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0047-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0047",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0047-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0047",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0047-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0048",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0048-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0048",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0048-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0048",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0048-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0048",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0048-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0048",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0048-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0048",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0048-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0048",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0048-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0048",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0048-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0049",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0049-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0049",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0049-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0049",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0049-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0049",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0049-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0049",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0049-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0049",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0049-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0049",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0049-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0049",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0049-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0050",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0050-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0050",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0050-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0050",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0050-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0050",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0050-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0050",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0050-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0050",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0050-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0050",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0050-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0050",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0050-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0051",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0051-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0051",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0051-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0051",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0051-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0051",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0051-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0051",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0051-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0051",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0051-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0051",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0051-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0051",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0051-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0052",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0052-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0052",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0052-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0052",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0052-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0052",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0052-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0052",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0052-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0052",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0052-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0052",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0052-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0052",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0052-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0053",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0053-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0053",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0053-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0053",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0053-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0053",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0053-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0053",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0053-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0053",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0053-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0053",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0053-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0053",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0053-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0054",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0054-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0054",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0054-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0054",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0054-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0054",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0054-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0054",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0054-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0054",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0054-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0054",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0054-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0054",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0054-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0055",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0055-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0055",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0055-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0055",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0055-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0055",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0055-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0055",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0055-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0055",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0055-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0055",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0055-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0055",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0055-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0056",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0056-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0056",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0056-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0056",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0056-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0056",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0056-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0056",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0056-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0056",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0056-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0056",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0056-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0056",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0056-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0057",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0057-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0057",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0057-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0057",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0057-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0057",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0057-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0057",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0057-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0057",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0057-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0057",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0057-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0057",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0057-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0058",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0058-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0058",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0058-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0058",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0058-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0058",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0058-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0058",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0058-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0058",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0058-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0058",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0058-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0058",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0058-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0059",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0059-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0059",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0059-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0059",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0059-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0059",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0059-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0059",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0059-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0059",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0059-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0059",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0059-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0059",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0059-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0060",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0060-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0060",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0060-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0060",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0060-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0060",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0060-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0060",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0060-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0060",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0060-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0060",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0060-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0060",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0060-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0061",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0061-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0061",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0061-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0061",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0061-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0061",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0061-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0061",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0061-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0061",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0061-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0061",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0061-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0061",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0061-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0062",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0062-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0062",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0062-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0062",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0062-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0062",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0062-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0062",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0062-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0062",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0062-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0062",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0062-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0062",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0062-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0063",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0063-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0063",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0063-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0063",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0063-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0063",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0063-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0063",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0063-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0063",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0063-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0063",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0063-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0063",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0063-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0064",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0064-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0064",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0064-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0064",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0064-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0064",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0064-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0064",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0064-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0064",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0064-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0064",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0064-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0064",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0064-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0065",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0065-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0065",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0065-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0065",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0065-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0065",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0065-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0065",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0065-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0065",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0065-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0065",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0065-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0065",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0065-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0066",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0066-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0066",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0066-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0066",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0066-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0066",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0066-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0066",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0066-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0066",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0066-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0066",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0066-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0066",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0066-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0067",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0067-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0067",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0067-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0067",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0067-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0067",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0067-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0067",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0067-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0067",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0067-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0067",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0067-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0067",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0067-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0068",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0068-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0068",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0068-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0068",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0068-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0068",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0068-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0068",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0068-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0068",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0068-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0068",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0068-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0068",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0068-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0069",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0069-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0069",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0069-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0069",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0069-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0069",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0069-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0069",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0069-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0069",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0069-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0069",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0069-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0069",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0069-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0070",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0070-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0070",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0070-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0070",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0070-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0070",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0070-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0070",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0070-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0070",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0070-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0070",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0070-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0070",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0070-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0071",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0071-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0071",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0071-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0071",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0071-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0071",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0071-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0071",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0071-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0071",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0071-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0071",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0071-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0071",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0071-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0072",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0072-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0072",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0072-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0072",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0072-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0072",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0072-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0072",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0072-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0072",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0072-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0072",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0072-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0072",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0072-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0073",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0073-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0073",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0073-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0073",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0073-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0073",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0073-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0073",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0073-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0073",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0073-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0073",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0073-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0073",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0073-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0074",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0074-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0074",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0074-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0074",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0074-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0074",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0074-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0074",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0074-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0074",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0074-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0074",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0074-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0074",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0074-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0075",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0075-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0075",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0075-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0075",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0075-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0075",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0075-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0075",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0075-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0075",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0075-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0075",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0075-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0075",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0075-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0076",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0076-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0076",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0076-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0076",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0076-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0076",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0076-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0076",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0076-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0076",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0076-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0076",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0076-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0076",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0076-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0077",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0077-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0077",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0077-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0077",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0077-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0077",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0077-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0077",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0077-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0077",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0077-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0077",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0077-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0077",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0077-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0078",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0078-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0078",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0078-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0078",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0078-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0078",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0078-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0078",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0078-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0078",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0078-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0078",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0078-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0078",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0078-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0079",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0079-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0079",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0079-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0079",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0079-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0079",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0079-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0079",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0079-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0079",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0079-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0079",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0079-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0079",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0079-60",
+    "source_sequence": 7
+  },
+  {
+    "entity_id": "customer-0080",
+    "valid_from": "2025-01-01T00:00:00.000Z",
+    "valid_to": "2025-01-11T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "NA",
+    "source_event_id": "customer-0080-00",
+    "source_sequence": 1
+  },
+  {
+    "entity_id": "customer-0080",
+    "valid_from": "2025-01-11T00:00:00.000Z",
+    "valid_to": "2025-01-16T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "NA",
+    "source_event_id": "customer-0080-10",
+    "source_sequence": 2
+  },
+  {
+    "entity_id": "customer-0080",
+    "valid_from": "2025-01-16T00:00:00.000Z",
+    "valid_to": "2025-01-21T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "EU",
+    "source_event_id": "customer-0080-15-late",
+    "source_sequence": 8
+  },
+  {
+    "entity_id": "customer-0080",
+    "valid_from": "2025-01-21T00:00:00.000Z",
+    "valid_to": "2025-01-31T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "pro",
+    "region": "APAC",
+    "source_event_id": "customer-0080-20-z",
+    "source_sequence": 9
+  },
+  {
+    "entity_id": "customer-0080",
+    "valid_from": "2025-01-31T00:00:00.000Z",
+    "valid_to": "2025-02-10T00:00:00.000Z",
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0080-30",
+    "source_sequence": 4
+  },
+  {
+    "entity_id": "customer-0080",
+    "valid_from": "2025-02-10T00:00:00.000Z",
+    "valid_to": "2025-02-20T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "free",
+    "region": "APAC",
+    "source_event_id": "customer-0080-40",
+    "source_sequence": 5
+  },
+  {
+    "entity_id": "customer-0080",
+    "valid_from": "2025-02-20T00:00:00.000Z",
+    "valid_to": "2025-03-02T00:00:00.000Z",
+    "is_deleted": 0,
+    "plan": "enterprise",
+    "region": "NA",
+    "source_event_id": "customer-0080-50",
+    "source_sequence": 6
+  },
+  {
+    "entity_id": "customer-0080",
+    "valid_from": "2025-03-02T00:00:00.000Z",
+    "valid_to": null,
+    "is_deleted": 1,
+    "plan": null,
+    "region": null,
+    "source_event_id": "customer-0080-60",
+    "source_sequence": 7
+  }
+]

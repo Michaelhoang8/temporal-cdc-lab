@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "generatorSeed": 481516,
+  "entities": 80,
+  "canonicalEvents": 800,
+  "arrivalRows": 915,
+  "initialCount": 560,
+  "lateCorrectionRows": 240,
+  "identicalDuplicateRows": 100,
+  "conflictingRows": 12,
+  "invalidRows": 3,
+  "canonicalSha256": "58ffea96146519b7abdc281a3207dd4c8401937e8188c3d3cc15a3d4a52f382e",
+  "arrivalsSha256": "b6bc2b5fd94c751331ff78b30bbb68b36c9e1b46d947438af0de4e31bea42015",
+  "timestampMeaning": "effectiveAt is synthetic business validity time; received_at is measured replay wall time"
+}

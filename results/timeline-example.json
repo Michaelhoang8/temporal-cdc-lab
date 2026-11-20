@@ -1,0 +1,157 @@
+{
+  "entity": "customer-0001",
+  "before": [
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-01-01T00:00:00.000Z",
+      "valid_to": "2025-01-11T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "free",
+      "region": "NA",
+      "source_event_id": "customer-0001-00",
+      "source_sequence": 1
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-01-11T00:00:00.000Z",
+      "valid_to": "2025-01-21T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "pro",
+      "region": "NA",
+      "source_event_id": "customer-0001-10",
+      "source_sequence": 2
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-01-21T00:00:00.000Z",
+      "valid_to": "2025-01-31T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "pro",
+      "region": "EU",
+      "source_event_id": "customer-0001-20",
+      "source_sequence": 3
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-01-31T00:00:00.000Z",
+      "valid_to": "2025-02-10T00:00:00.000Z",
+      "is_deleted": 1,
+      "plan": null,
+      "region": null,
+      "source_event_id": "customer-0001-30",
+      "source_sequence": 4
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-02-10T00:00:00.000Z",
+      "valid_to": "2025-02-20T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "free",
+      "region": "APAC",
+      "source_event_id": "customer-0001-40",
+      "source_sequence": 5
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-02-20T00:00:00.000Z",
+      "valid_to": "2025-03-02T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "enterprise",
+      "region": "NA",
+      "source_event_id": "customer-0001-50",
+      "source_sequence": 6
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-03-02T00:00:00.000Z",
+      "valid_to": null,
+      "is_deleted": 0,
+      "plan": "pro",
+      "region": "NA",
+      "source_event_id": "customer-0001-60",
+      "source_sequence": 7
+    }
+  ],
+  "after": [
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-01-01T00:00:00.000Z",
+      "valid_to": "2025-01-11T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "free",
+      "region": "NA",
+      "source_event_id": "customer-0001-00",
+      "source_sequence": 1
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-01-11T00:00:00.000Z",
+      "valid_to": "2025-01-16T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "pro",
+      "region": "NA",
+      "source_event_id": "customer-0001-10",
+      "source_sequence": 2
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-01-16T00:00:00.000Z",
+      "valid_to": "2025-01-21T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "enterprise",
+      "region": "EU",
+      "source_event_id": "customer-0001-15-late",
+      "source_sequence": 8
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-01-21T00:00:00.000Z",
+      "valid_to": "2025-01-31T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "pro",
+      "region": "APAC",
+      "source_event_id": "customer-0001-20-z",
+      "source_sequence": 9
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-01-31T00:00:00.000Z",
+      "valid_to": "2025-02-10T00:00:00.000Z",
+      "is_deleted": 1,
+      "plan": null,
+      "region": null,
+      "source_event_id": "customer-0001-30",
+      "source_sequence": 4
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-02-10T00:00:00.000Z",
+      "valid_to": "2025-02-20T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "free",
+      "region": "APAC",
+      "source_event_id": "customer-0001-40",
+      "source_sequence": 5
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-02-20T00:00:00.000Z",
+      "valid_to": "2025-03-02T00:00:00.000Z",
+      "is_deleted": 0,
+      "plan": "enterprise",
+      "region": "NA",
+      "source_event_id": "customer-0001-50",
+      "source_sequence": 6
+    },
+    {
+      "entity_id": "customer-0001",
+      "valid_from": "2025-03-02T00:00:00.000Z",
+      "valid_to": null,
+      "is_deleted": 0,
+      "plan": "pro",
+      "region": "NA",
+      "source_event_id": "customer-0001-60",
+      "source_sequence": 7
+    }
+  ]
+}

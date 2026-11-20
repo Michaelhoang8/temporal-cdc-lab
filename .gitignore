@@ -1,0 +1,9 @@
+node_modules/
+results-ci/
+results-local/
+results/trial-*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.log
+.DS_Store

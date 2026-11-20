@@ -1,0 +1,115 @@
+{
+  "inputRows": 915,
+  "accepted": 800,
+  "duplicates": 100,
+  "quarantined": 15,
+  "rebuiltEntities": 653,
+  "entities": 80,
+  "historyRows": 640,
+  "tombstoneIntervals": 90,
+  "activeCustomers": 70,
+  "distinctQuarantines": 15,
+  "reconciliationViolations": 0,
+  "asofChecks": 800,
+  "referenceMatches": true,
+  "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d",
+  "databaseBytes": 557056,
+  "databaseSha256": "559c36a8f493bbf0a4d342712adc4dd8c47efc598980341fb4baba7ead392fb8",
+  "replayMs": 123.4112,
+  "primaryBatchSize": 40,
+  "primaryTransactions": 23,
+  "firstReceivedAt": "2026-11-20T23:02:45.758Z",
+  "lastReceivedAt": "2026-11-20T23:02:45.868Z",
+  "repeat": {
+    "accepted": 0,
+    "duplicates": 900,
+    "quarantined": 15,
+    "rebuiltEntities": 0,
+    "elapsedMs": 9.116499999999974,
+    "historyUnchanged": true
+  },
+  "benchmark": [
+    {
+      "repetition": 1,
+      "batchSize": 80,
+      "rows": 900,
+      "transactions": 12,
+      "rebuiltEntities": 533,
+      "elapsedMs": 79.20089999999999,
+      "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d"
+    },
+    {
+      "repetition": 1,
+      "batchSize": 900,
+      "rows": 900,
+      "transactions": 1,
+      "rebuiltEntities": 80,
+      "elapsedMs": 23.623199999999997,
+      "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d"
+    },
+    {
+      "repetition": 1,
+      "batchSize": 10,
+      "rows": 900,
+      "transactions": 90,
+      "rebuiltEntities": 763,
+      "elapsedMs": 276.0807,
+      "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d"
+    },
+    {
+      "repetition": 2,
+      "batchSize": 900,
+      "rows": 900,
+      "transactions": 1,
+      "rebuiltEntities": 80,
+      "elapsedMs": 26.737899999999968,
+      "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d"
+    },
+    {
+      "repetition": 2,
+      "batchSize": 10,
+      "rows": 900,
+      "transactions": 90,
+      "rebuiltEntities": 766,
+      "elapsedMs": 300.82529999999986,
+      "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d"
+    },
+    {
+      "repetition": 2,
+      "batchSize": 80,
+      "rows": 900,
+      "transactions": 12,
+      "rebuiltEntities": 549,
+      "elapsedMs": 78.69759999999997,
+      "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d"
+    },
+    {
+      "repetition": 3,
+      "batchSize": 10,
+      "rows": 900,
+      "transactions": 90,
+      "rebuiltEntities": 755,
+      "elapsedMs": 275.58140000000003,
+      "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d"
+    },
+    {
+      "repetition": 3,
+      "batchSize": 80,
+      "rows": 900,
+      "transactions": 12,
+      "rebuiltEntities": 546,
+      "elapsedMs": 76.97919999999999,
+      "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d"
+    },
+    {
+      "repetition": 3,
+      "batchSize": 900,
+      "rows": 900,
+      "transactions": 1,
+      "rebuiltEntities": 80,
+      "elapsedMs": 30.890800000000127,
+      "semanticSha256": "45730d8e88a571ea72a5341c01c0a563e1706872f3fce324bd5c9ca1a207ef9d"
+    }
+  ],
+  "scope": "Synthetic local file-backed replay; no network CDC connector, no production throughput claim."
+}

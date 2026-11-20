@@ -1,0 +1,24 @@
+{
+  "measuredAt": "2026-11-20T23:02:47.293Z",
+  "node": "v24.20.0",
+  "sqlite": "3.53.4",
+  "platform": "win32",
+  "architecture": "x64",
+  "cpuModel": "AMD Ryzen 5 7600X 6-Core Processor             ",
+  "logicalCpus": 12,
+  "journalMode": "DELETE",
+  "synchronous": "FULL",
+  "databaseType": "file-backed",
+  "timingClock": "performance.now",
+  "sourceHashEncoding": "UTF-8, CRLF normalized to LF",
+  "sourceSha256": {
+    "src/cdc.ts": "246ad8f3e13249306cf9ef95a60ae19bdc3ad803199fdd6fe6184bad0982eb1c",
+    "src/reference.ts": "9153de25129293d34b416ea436b8e48c23458a77f76b722572fe0d27734e4b82",
+    "scripts/generate.ts": "94e16b3df512c12dc4a34fd69cc1f5a4716b1e5c251dab948913fc3a50099016",
+    "scripts/replay.ts": "cd3054d06241fca8e81fd36002e5499c2da20395fb39d8fdc14145954c281786",
+    "scripts/query.ts": "7c90926ba834ba980de691dddf276e8bf2eb1680b0d6c6b1cdc25c3a2af0e607",
+    "sql/schema.sql": "27ca2f0766f7d48d668523e396db2202d93b55b4b0720a6134a729d2e28c63a4",
+    "sql/reconciliation.sql": "5e06895b98130249cc9b41576f93d4f7d7d5cd41ac1b5b563dfa15a82f0c066b"
+  },
+  "sourceHashNotes": "query.ts help/error formatting was updated after measurement; it is an inspection CLI and is not called by the measured replay. All ingestion and replay sources retain their measured hashes."
+}
