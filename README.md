@@ -1,5 +1,7 @@
 # Temporal CDC lab
 
+**[View the report in your browser](https://Michaelhoang8.github.io/temporal-cdc-lab/)**
+
 TypeScript ingestion into actual SQLite, with an immutable event inbox and SCD Type 2 style customer history. Late-arriving changes rebuild the affected entity's validity intervals inside the same transaction as inbox ingestion. The repository includes deterministic synthetic inputs, the resulting database, independent reconciliation, measured replay traces, a technical report, and review media.
 
 **[Read the report](docs/report.html)** · [Screenshots](docs/screenshots/README.md) · [Review recording](docs/recordings/README.md) · [Inspect the SQLite database](results/store.sqlite)
